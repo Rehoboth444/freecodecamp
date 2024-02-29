@@ -1,0 +1,19 @@
+.stats {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.description {
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 0;
+  font-size: 21px;
+}
+
+.touchless-link {
+  text-decoration: underline;
+}

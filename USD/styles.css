@@ -1,0 +1,29 @@
+.numbers {
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.title {
+  font-family: Arial;
+  color: rgb(128, 128, 128);
+  font-size: 14px;
+}
+
+.figures {
+  font-family: Arial;
+  color: rgb(100, 156, 100);
+  font-size: 14px;
+}
+
+.after-hours {
+  color: rgb(128, 128, 128);
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.span-figures {
+  color:rgb(255, 0, 0);
+  font-size: 14px;
+  font-family: Arial;
+}
