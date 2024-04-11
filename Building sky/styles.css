@@ -1,0 +1,35 @@
+html {
+  background: lightblue;
+}
+
+#cloud {
+  width: 350px;
+  height: 120px;
+  background: white;
+  border-radius: 100px;
+  position: relative;
+  margin-top: 100px;  
+}
+
+#cloud::after, #cloud::before {
+  content: "";
+  position: absolute;
+  background: white; 
+  z-index: -1;
+}
+
+#cloud::after {
+  width: 100px;
+  height: 100px;
+  top: -50px;
+  left: 50px;
+  border-radius: 150px;
+}
+
+#cloud::before {
+  width: 180px;
+  height: 180px;
+  top: -90px;
+  right: 50px;
+  border-radius: 200px;
+}

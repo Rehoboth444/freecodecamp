@@ -257,8 +257,7 @@ audio.addEventListener("ended", () => {
     if (nextSongExists) {
       playNextSong();
     } else {
-      userData.currentSong = null;
-      userData.songCurrentTime = 0;  
+      userData.currentSong = null;      userData.songCurrentTime = 0;  
 pauseSong();
 setPlayerDisplay();
 highlightCurrentSong();
