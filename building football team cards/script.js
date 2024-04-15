@@ -44,7 +44,7 @@ const myFavoriteFootballTeam = {
     },
     {
       name: "José Luis Brown",
-      position: "defender",
+      position: "defender",   
       number: 5,
       isCaptain: false,
       nickname: "Tata",
