@@ -13,10 +13,9 @@
 }
 
 body {
-  background-color: var(--dark-blue);
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;
-  color: var(--light-grey);
+  color: var(--dark-blue);
   padding: 0 15px;
   display: flex;
   flex-direction: column;
