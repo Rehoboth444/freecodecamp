@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(120, 158, 173);
+  }
+  
+  .myLabel{
+    font-family: verdana;
+    font-size: 1.5em;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .centerElement{
+    text-align: center;
+  }
